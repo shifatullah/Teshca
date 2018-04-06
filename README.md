@@ -3,4 +3,4 @@ Technology Show Case
 
 # Java Show Case
 
-[Java language (teshca-javase-java)](/Shifatullah/teshca-javase-java)
+[Java language (teshca-javase-java)](http://github.com/Shifatullah/teshca-javase-java)
