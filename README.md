@@ -1,6 +1,3 @@
-# Teshca
-Technology Show Case
-
 # .Net Show Case
 
 [Service Fabric in CSharp (teshca-dotnet-csharp-servicefabric)](https://github.com/Shifatullah/teshca-dotnet-csharp-servicefabric)
