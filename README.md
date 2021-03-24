@@ -1,3 +1,7 @@
+# .NET Core
+
+[Asp.Net Core (teshca-dotnet-aspnetcore)](https://github.com/Shifatullah/teshca-dotnet-aspnetcore)
+
 # .Net Show Case
 
 [Service Fabric in CSharp (teshca-dotnet-csharp-servicefabric)](https://github.com/Shifatullah/teshca-dotnet-csharp-servicefabric)
