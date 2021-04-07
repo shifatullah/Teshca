@@ -2,6 +2,9 @@
 
 [Asp.Net Core (teshca-dotnet-aspnetcore)](https://github.com/Shifatullah/teshca-dotnet-aspnetcore)
 
+[Asp.Net Core Mvc (teshca-dotnet-aspnetcore-mvc)](https://github.com/Shifatullah/teshca-dotnet-aspnetcore-mvc)
+
+
 # .Net Show Case
 
 [Service Fabric in CSharp (teshca-dotnet-csharp-servicefabric)](https://github.com/Shifatullah/teshca-dotnet-csharp-servicefabric)
