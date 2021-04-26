@@ -4,6 +4,8 @@
 
 [Asp.Net Core Mvc (teshca-dotnet-aspnetcore-mvc)](https://github.com/Shifatullah/teshca-dotnet-aspnetcore-mvc)
 
+[Asp.Net Core gRPC (teshca-dotnet-aspnetcore-gRPC)](https://github.com/Shifatullah/teshca-dotnet-aspnetcore-gRPC)
+
 
 # .Net Show Case
 
